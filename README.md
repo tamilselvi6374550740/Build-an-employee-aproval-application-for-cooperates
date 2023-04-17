@@ -1,4 +1,4 @@
-# Build-an-employee-aproval-application-for-cooperates
+# Build-a-employee-aproval-application-for-corporates
 
 TEAM URL
 
